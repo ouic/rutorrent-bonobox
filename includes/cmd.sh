@@ -3,7 +3,7 @@
 CMDPATH=$(/usr/bin/lsb_release -cs)
 
 
-# Youre distribution can be upgrated to buster but still have the program runing in /bin
+# Your distribution can be upgrated to buster but still have the program runing in /bin
 if [[ "$CMDPATH" == stretch ]]  || [ ! -f "/usr/bin/bash" ]; then
         # variables cmd stretch
         CMDAPTGET="/usr/bin/apt-get"

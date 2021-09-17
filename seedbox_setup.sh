@@ -19,9 +19,9 @@
 # apt-get install git-core -y
 #
 # cd /tmp
-# git clone https://github.com/exrat/rutorrent-bonobox
-# cd rutorrent-bonobox
-# chmod a+x bonobox.sh && ./bonobox.sh
+# git clone https://github.com/ouic/seedbox
+# cd seedbox
+# chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --fr
 #
 # Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script
 #
@@ -33,7 +33,6 @@
 # en faisant vos tests sur des fichiers libres de droits.
 #
 # This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-
 
 # includes
 INCLUDES="includes"
