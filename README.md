@@ -27,7 +27,7 @@ apt-get install git lsb-release -y
 cd /tmp
 git clone https://github.com/exrat/rutorrent-bonobox
 cd rutorrent-bonobox
-chmod a+x bonobox.sh && ./bonobox.sh
+chmod a+x bonobox.sh && ./bonobox.sh --fr
 ```
 ![caps1](https://raw.github.com/exrat/rutorrent-bonobox/master/files/caps_script01.png)
 
