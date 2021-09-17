@@ -14,7 +14,8 @@ Tiré du tutoriel de mondedie.fr disponible ici:
 
 [Aide, support & plus si affinités à la même adresse !](http://mondedie.fr/)
 
-**Auteur :** Ex_Rat
+**Auteur :** Ex_Rat, **modifié par :** uReaL team ([www.ureal.fr.nf](http://www.ureal.fr.nf/))
+
 
 Merci aux traducteurs: Sophie, Spectre, Hardware, Zarev, SirGato, MiguelSam, Hierra
 
