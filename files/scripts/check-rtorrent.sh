@@ -6,7 +6,7 @@
 
 
 # includes
-INCLUDES="/tmp/rutorrent-bonobox/includes"
+INCLUDES="/tmp/seedbox/includes"
 # shellcheck source=/dev/null
 . "$INCLUDES"/cmd.sh
 # shellcheck source=/dev/null
