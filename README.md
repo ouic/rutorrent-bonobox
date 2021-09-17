@@ -29,7 +29,7 @@ git clone https://github.com/exrat/rutorrent-bonobox
 cd rutorrent-bonobox
 chmod a+x bonobox.sh && ./bonobox.sh --fr
 ```
-![caps1](https://raw.github.com/exrat/rutorrent-bonobox/master/files/caps_script01.png)
+![caps1](https://raw.github.com/ouic/seedbox/master/files/caps_script01.png)
 
 **Vous pouvez aussi forcer la langue de votre choix:**
 ```
@@ -57,7 +57,7 @@ chmod a+x bonobox.sh && ./bonobox.sh --ptbr
 
 Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script
 
-![caps2](https://raw.github.com/exrat/rutorrent-bonobox/master/files/caps_script02.png)
+![caps2](https://raw.github.com/ouic/seedbox/master/files/caps_script02.png)
 
 ### Disclaimer
 Ce script est proposé à des fins d'expérimentation uniquement, le téléchargement d’oeuvre copyrightées est illégal.
