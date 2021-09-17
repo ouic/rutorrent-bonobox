@@ -1,6 +1,6 @@
 # Script d'installation ruTorrent / Nginx
 
-![logo](https://raw.github.com/exrat/rutorrent-bonobox/master/files/ureal.png)
+![logo](https://raw.github.com/ouic/seedbox/master/files/ureal.png)
 
 * Multi-utilisateurs & Multilingue automatique en fonction de l'installation du serveur
 * Français, English, German, Pусский,  Español, Português
