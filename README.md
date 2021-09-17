@@ -1,4 +1,4 @@
-# Script d'installation ruTorrent / Nginx
+# Script d'installation d'une SeedBox sur debian 9/10
 
 ![logo](https://raw.github.com/ouic/seedbox/master/files/ureal.png)
 
