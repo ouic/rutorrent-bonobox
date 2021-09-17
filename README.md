@@ -21,13 +21,7 @@ Merci aux traducteurs: Sophie, Spectre, Hardware, Zarev, SirGato, MiguelSam, Hie
 ## Installation:
 Multilingue automatique
 ```
-apt-get update && apt-get upgrade -y
-apt-get install git lsb-release -y
-
-cd /tmp
-git clone https://github.com/ouic/seedbox
-cd seedbox
-chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --fr
+apt-get update && apt-get upgrade -y; apt-get install git-core git lsb-release -y; cd /tmp; git clone https://github.com/ouic/seedbox; cd seedbox; chmod a+x seedbox_setup.sh && ./seedbox_setup.sh
 ```
 ![caps1](https://raw.github.com/ouic/seedbox/master/files/caps_script01.png)
 
