@@ -27,6 +27,16 @@ apt-get update && apt-get upgrade -y && apt-get install git-core git lsb-release
 ```
 ![caps1](https://raw.github.com/ouic/seedbox/master/files/caps_script01.png)
 
+Le script vous demande de créer un utilisateur, exemple :
+
+- Utilisateur : seedbox
+- Mot de passe : password
+
+Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script
+
+![caps2](https://raw.github.com/ouic/seedbox/master/files/caps_script02.png)
+
+
 **Vous pouvez aussi forcer la langue de votre choix:**
 ```
 # Français
@@ -50,10 +60,6 @@ chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --pt
 # Português do Brasil
 chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --ptbr
 ```
-
-Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script
-
-![caps2](https://raw.github.com/ouic/seedbox/master/files/caps_script02.png)
 
 ### Disclaimer
 Ce script est proposé à des fins d'expérimentation uniquement, le téléchargement d’oeuvre copyrightées est illégal.
