@@ -19,9 +19,10 @@ Tiré du tutoriel de mondedie.fr disponible ici:
 Merci aux traducteurs: Sophie, Spectre, Hardware, Zarev, SirGato, MiguelSam, Hierra
 
 ## Installation:
-Multilingue automatique
+
+commande d'installaton (multilangue automatique)
 ```
-apt-get update && apt-get upgrade -y; apt-get install git-core git lsb-release -y; cd /tmp; git clone https://github.com/ouic/seedbox; cd seedbox; chmod a+x seedbox_setup.sh && ./seedbox_setup.sh
+apt-get update && apt-get upgrade -y && apt-get install git-core git lsb-release -y && cd /tmp && git clone https://github.com/ouic/seedbox && cd seedbox && chmod a+x seedbox_setup.sh && ./seedbox_setup.sh
 ```
 ![caps1](https://raw.github.com/ouic/seedbox/master/files/caps_script01.png)
 
