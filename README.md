@@ -37,7 +37,7 @@ Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le scri
 ![caps2](https://raw.github.com/ouic/seedbox/master/files/caps_script02.png)
 
 
-**Vous pouvez aussi forcer la langue de votre choix:**
+**Vous pouvez aussi forcer la langue de votre choix en modifiant la commande initiale avec :**
 ```
 # Français
 chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --fr
