@@ -25,34 +25,34 @@ apt-get update && apt-get upgrade -y
 apt-get install git lsb-release -y
 
 cd /tmp
-git clone https://github.com/exrat/rutorrent-bonobox
-cd rutorrent-bonobox
-chmod a+x bonobox.sh && ./bonobox.sh --fr
+git clone https://github.com/ouic/seedbox
+cd seedbox
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --fr
 ```
 ![caps1](https://raw.github.com/ouic/seedbox/master/files/caps_script01.png)
 
 **Vous pouvez aussi forcer la langue de votre choix:**
 ```
 # Français
-chmod a+x bonobox.sh && ./bonobox.sh --fr
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --fr
 
 # English
-chmod a+x bonobox.sh && ./bonobox.sh --en
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --en
 
 # Pусский  ( "д/H" или "y/n" )
-chmod a+x bonobox.sh && ./bonobox.sh --ru
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --ru
 
 # German
-chmod a+x bonobox.sh && ./bonobox.sh --de
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --de
 
 # Español
-chmod a+x bonobox.sh && ./bonobox.sh --es
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --es
 
 # Português
-chmod a+x bonobox.sh && ./bonobox.sh --pt
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --pt
 
 # Português do Brasil
-chmod a+x bonobox.sh && ./bonobox.sh --ptbr
+chmod a+x seedbox_setup.sh && ./seedbox_setup.sh --ptbr
 ```
 
 Pour gérer vos utilisateurs ultérieurement, il vous suffit de relancer le script
